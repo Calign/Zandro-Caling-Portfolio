@@ -180,19 +180,10 @@ function App() {
             </div>
 
             <div className="skill-card">
-              <FaJava className="skill-icon" />
-              <span>Java</span>
-            </div>
-
-            <div className="skill-card">
               <FaJs className="skill-icon" />
               <span>JavaScript</span>
             </div>
 
-            <div className="skill-card">
-              <FaCode className="skill-icon" />
-              <span>C/C++</span>
-            </div>
 
           </div>
 
